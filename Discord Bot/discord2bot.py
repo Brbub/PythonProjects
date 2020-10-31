@@ -1,6 +1,6 @@
 import discord
 from discord.ext import commands
-token = 'NzMwNjIwMDU3MzMxMzAyNDQw.XwdHfg.2461z7OylFYnTSjpuPny1G9ALv4'
+token = "a"
 
 #In decorator add a list titled aliases with a list of strings
 
