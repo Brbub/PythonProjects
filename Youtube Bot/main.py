@@ -36,7 +36,7 @@ class Youtube():
         self.channel('PewDiePie')
 
 if __name__ == "__main__":
-    Youtube('brbub67@yahoo.com','Guinnessbub11').main()
+    Youtube().main()
 
 
 
