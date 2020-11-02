@@ -68,7 +68,7 @@ def comment(account, comment):
 
 
 
-login("14724174214","ThisIsNotAnAutomatedBot")   
+login()   
 comment("_schmula_", "Great post!")
 if keyboard.is_pressed("q"):  # if key 'q' is pressed 
         exit()
